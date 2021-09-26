@@ -77,5 +77,6 @@ BtnUxmal.grid(row=9, column=6)
 
 
 
+#manter janela aberta
 janela = mainloop()
 
